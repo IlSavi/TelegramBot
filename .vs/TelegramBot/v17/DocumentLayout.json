@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|c:\\users\\hi-tech\\source\\repos\\telegrambot\\domain\\valueobjects\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|c:\\users\\hi-tech\\source\\repos\\telegrambot\\domain\\valueobjects\\basevalueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\basevalueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|c:\\users\\hi-tech\\source\\repos\\telegrambot\\domain\\validators\\fullnamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|solutionrelative:domain\\validators\\fullnamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|c:\\users\\hi-tech\\source\\repos\\telegrambot\\domain\\primitives\\validationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\validationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|c:\\users\\hi-tech\\source\\repos\\telegrambot\\domain\\primitives\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|c:\\users\\hi-tech\\source\\repos\\telegrambot\\domain\\entities\\customfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\customfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|c:\\users\\hi-tech\\source\\repos\\telegrambot\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B47CEB6-24BE-4DF4-99C5-A26D5AC4A46E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\ValueObjects\\BaseValueObject.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\BaseValueObject.cs",
+              "ToolTip": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\ValueObjects\\BaseValueObject.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\BaseValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:07:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomField.cs",
+              "DocumentMoniker": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Entities\\CustomField.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CustomField.cs",
+              "ToolTip": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Entities\\CustomField.cs",
+              "RelativeToolTip": "Domain\\Entities\\CustomField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:33:06.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Primitives\\Gender.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\Gender.cs",
+              "ToolTip": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Primitives\\Gender.cs",
+              "RelativeToolTip": "Domain\\Primitives\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:27:14.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationMessage.cs",
+              "DocumentMoniker": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Primitives\\ValidationMessage.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\ValidationMessage.cs",
+              "ToolTip": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Primitives\\ValidationMessage.cs",
+              "RelativeToolTip": "Domain\\Primitives\\ValidationMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:00:28.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullNameValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Validators\\FullNameValidator.cs",
+              "RelativeDocumentMoniker": "Domain\\Validators\\FullNameValidator.cs",
+              "ToolTip": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Validators\\FullNameValidator.cs",
+              "RelativeToolTip": "Domain\\Validators\\FullNameValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:28:40.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:04:44.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FullName.cs",
+              "DocumentMoniker": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\ValueObjects\\FullName.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\FullName.cs",
+              "ToolTip": "C:\\Users\\HI-TECH\\source\\repos\\TelegramBot\\Domain\\ValueObjects\\FullName.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\FullName.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vxEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:56:27.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

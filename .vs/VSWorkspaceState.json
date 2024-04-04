@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Domain\\Entities",
+    "\\Domain\\Primitives",
+    "\\Domain\\ValueObjects"
+  ],
+  "SelectedNode": "\\TelegramBot.sln",
+  "PreviewInSolutionExplorer": false
+}
