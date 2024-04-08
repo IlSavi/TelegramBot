@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domain.Validators;
 
 namespace Domain.Entities
 {
@@ -15,10 +16,14 @@ namespace Domain.Entities
     {
         public Person(FullName fullName, DateTime birthday, int age, List<CustomField> customFields) 
         {
-            FullName = fullName;
-            Birthday = birthday;
-            Age = age;
-            CustomFields = customFields;
+            //FullName = fullName;
+            //Birthday = birthday;
+            //Age = age;
+            //CustomFields = customFields;
+
+            var validator = new PersonValidator();
+
+            validator.Validate(this);
         }
         
         public FullName FullName { get; set; }

@@ -1,5 +1,6 @@
 ﻿using Domain.Primitives;
 using Domain.ValueObjects;
+using FluentValidation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Validators
 {
-    public class FullNameValidator : AbstractValidator<FullName> //FluentValidator
+    public class FullNameValidator : AbstractValidator<FullName> 
     {
         public FullNameValidator() 
         {
@@ -17,8 +18,21 @@ namespace Domain.Validators
                 .NotNull()
                 .WithMessage(ValidationMessage.NotNull)
                 .NotEmpty()
-                .WithMessage("");
-        }
-        
+                .WithMessage(ValidationMessage.NotEmpty)
+                .Matches(@"^[\p{L}]+$")
+                .WithMessage(ValidationMessage.LettersOnly);
+
+            RuleFor(x => x.LastName)
+                .NotNull()
+                .WithMessage(ValidationMessage.NotNull)
+                .NotEmpty()
+                .WithMessage(ValidationMessage.NotEmpty)
+                .Matches(@"^[\p{L}]+$")
+                .WithMessage(ValidationMessage.LettersOnly);
+
+            RuleFor(x => x.MiddleName)
+                .Matches(@"^[\p{L}]+$")
+                .WithMessage(ValidationMessage.LettersOnly);
+        } 
     }
 }

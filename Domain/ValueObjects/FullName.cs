@@ -24,11 +24,11 @@ namespace Domain.ValueObjects
         
         public FullName(string fName, string lName, string? mName = null) 
         {
-            FirtsName = fName ?? throw new ArgumentNullException(nameof(fName));
+            FirstName = fName ?? throw new ArgumentNullException(nameof(fName));
             LastName = lName ?? throw new ArgumentNullException(nameof(lName));
             MiddleName = mName;
         }
-        public required string FirtsName {  get; set; }
+        public required string FirstName {  get; set; }
         public required string LastName { get; set; }
         public string? MiddleName {  get; set; }
 

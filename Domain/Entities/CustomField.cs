@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.Validators;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,8 +17,11 @@ namespace Domain.Entities
 
         public CustomField(string fieldName, object value)
         {
-            FieldName = fieldName;
-            Value = value;
+            //FieldName = fieldName;
+            //Value = value;
+            var validator = new CustomFieldValidator();
+
+            validator.Validate(this);
         }
 
     }
